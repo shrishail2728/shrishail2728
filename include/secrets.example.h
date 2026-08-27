@@ -1,7 +1,0 @@
-#pragma once
-
-// Copy this file to include/secrets.h and fill in your own values.
-#define HEALTHTRACK_WIFI_SSID "YOUR_WIFI_SSID"
-#define HEALTHTRACK_WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
-#define HEALTHTRACK_THINGSPEAK_CHANNEL_ID 0UL
-#define HEALTHTRACK_THINGSPEAK_API_KEY "YOUR_THINGSPEAK_WRITE_API_KEY"
